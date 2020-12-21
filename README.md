@@ -6,9 +6,8 @@ Imagens para análise de perfomance: https://drive.google.com/drive/folders/1k3j
 
 Vídeo demonstrativo: https://drive.google.com/file/d/1lrhDxjPjvSMaN_31HfAI_GdkfXEmUpgv/view?usp=sharing
 
-Código da aplicação disponível em:
-https://drive.google.com/file/d/1AjzGk-TB92OZOJbgNaerS423AQFWHT90/view?usp=sharing
+Código da aplicação: https://drive.google.com/file/d/1AjzGk-TB92OZOJbgNaerS423AQFWHT90/view?usp=sharing
 
 ou
 
-repositório https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
+no repositório https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
